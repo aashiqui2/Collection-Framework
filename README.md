@@ -1,7 +1,3 @@
-Here’s a beautifully formatted **README.md** version of your **Collection Framework** repository, designed in the same professional and elegant style as your *Exception Handling* and *Generics* READMEs 👇
-
----
-
 <h1 align="center">☕ Java Collection Framework</h1>
 
 <p align="justify">
@@ -112,6 +108,4 @@ Watch the complete video here: <b>Collection Framework</b>.
 Copyright © 2025 <b>Aashiq</b> — All Rights Reserved
 </div>
 
----
 
-Would you like me to make it **match your Generics README color tone and emoji style** (for consistency across repositories)? I can make a unified style for all your Java concept repos (Exception Handling, Generics, Collection Framework, Stream API, etc.).
